@@ -5,11 +5,11 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.1</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ch.vardanega.simplyracing</groupId>
 	<artifactId>subscription</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>subscription</name>
 	<description>Service that provides features to subscribe to any racing event</description>
 	<properties>
@@ -49,7 +49,7 @@
 		<url>https://github.com/simplyracing/${project.artifactId}</url>
 		<connection>scm:git:git://github.com/simplyracing/${project.artifactId}.git</connection>
 		<developerConnection>scm:git:git@github.com:simplyracing/${project.artifactId}.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v0.0.1</tag>
 	</scm>
 
 </project>
