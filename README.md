@@ -5,16 +5,12 @@
 
 Service that provides features to subscribe to any racing event
 
-# Test
+# Test and run
 
-`./mvn clean verify`
-
-
-# Run
+`./mvnw clean verify`
 
 `./mvnw spring-boot:run`
 
 # To do
 
-* Dockerize the service
 * Create the microfontend
